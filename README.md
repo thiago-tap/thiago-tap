@@ -25,7 +25,7 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=thiago-tap&show_icons=true&theme=codeSTACKr&locale=pt-BR" alt="Estatísticas do GitHub"/>
+  <img height="180" src="https://streak-stats.demolab.com/?user=thiago-tap&theme=codeSTACKr&locale=pt_BR" alt="Estatísticas de Contribuição"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-tap&layout=compact&langs_count=7&theme=codeSTACKr" alt="Top Linguagens"/>
 </div>
 
