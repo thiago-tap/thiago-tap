@@ -16,7 +16,7 @@
 - 🤖 Apaixonado por produtividade, crio integrações e automações complexas utilizando o **n8n**.
 - 🌱 Estudando continuamente sobre **Arquitetura de Software e Cloud**.
 - 💬 Me pergunte sobre: **Laravel, Banco de Dados Relacionais, Docker e Automação de Processos.**
-- 📫 Como falar comigo: **thiago@tenil.com.br**
+- 📫 Como falar comigo: **thiago@catiteo.com**
 
 <br>
 
@@ -58,7 +58,7 @@
   <a href="https://www.linkedin.com/in/thiago-albuquerque-de-paula/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn do Thiago">
   </a>
-  <a href="mailto:thiago.albuquerquetap@gmail.com">
+  <a href="mailto:thiago@catiteo.com">
     <img src="https://img.shields.io/badge/-E_mail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email do Thiago">
   </a>
   <a href="https://www.instagram.com/thiagaotap/" target="_blank">
