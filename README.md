@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=250&section=header&text=Olá!%20Sou%20Thiago%20Albuquerque&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Header Thiago" />
+  <a href="https://github.com/thiago-tap">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=250&section=header&text=Olá!%20Sou%20Thiago%20Albuquerque&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Header Thiago" />
+  </a>
 </p>
 
 <h3 align="center">Desenvolvedor Full Stack | Especialista em APIs, Infraestrutura e Automação</h3>
@@ -40,8 +42,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=thiago-tap&show_icons=true&theme=tokyonight&locale=pt-BR" alt="Estatísticas do GitHub"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-tap&layout=compact&langs_count=6&theme=tokyonight" alt="Top Linguagens"/>
+  <a href="https://github.com/thiago-tap?tab=repositories">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=thiago-tap&show_icons=true&theme=tokyonight&locale=pt-BR" alt="Estatísticas do GitHub"/>
+  </a>
+  <a href="https://github.com/thiago-tap">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-tap&layout=compact&langs_count=6&theme=tokyonight" alt="Top Linguagens"/>
+  </a>
 </p>
 
 <br>
@@ -61,5 +67,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/thiago-tap/thiago-tap/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <a href="https://github.com/thiago-tap">
+    <img src="https://raw.githubusercontent.com/thiago-tap/thiago-tap/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  </a>
 </div>
