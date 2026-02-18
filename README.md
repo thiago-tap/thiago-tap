@@ -25,8 +25,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=thiago-tap&show_icons=true&theme=codeSTACKr&locale=pt-BR&include_all_commits=true&v=1" alt="Estatísticas do GitHub do Thiago"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiago-tap&locale=pt-BR&layout=compact&langs_count=7&theme=codeSTACKr&v=1" alt="Top Linguagens"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=thiago-tap&show_icons=true&theme=codeSTACKr&locale=pt-BR" alt="Estatísticas do GitHub"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-tap&layout=compact&langs_count=7&theme=codeSTACKr" alt="Top Linguagens"/>
 </div>
 
 <br>
@@ -35,7 +35,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/thiago-albuquerque-de-paula/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:thiago@tenil.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:thiago.albuquerquetap@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/thiagaotap/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
