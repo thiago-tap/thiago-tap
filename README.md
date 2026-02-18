@@ -10,14 +10,14 @@
 ### 💻 Tecnologias e Ferramentas
 
 <div align="center">
-  <img align="center" alt="TS" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="JS" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Angular" title="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="PHP" title="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Laravel" title="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="MySQL" title="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PostgreSQL" title="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
-  <img align="center" alt="Docker" title="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+  <img align="center" alt="TS" title="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img align="center" alt="JS" title="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Angular" title="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="PHP" title="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img align="center" alt="Laravel" title="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
+  <img align="center" alt="MySQL" title="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PostgreSQL" title="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Docker" title="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
 </div>
 
 <br>
@@ -26,8 +26,8 @@
 
 <div align="center">
   <a href="https://github.com/thiago-tap">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago-tap&show_icons=true&theme=codeSTACKr&locale=pt-BR&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Thiago"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-tap&locale=pt-BR&layout=compact&langs_count=7&theme=codeSTACKr" alt="Top Linguagens"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=thiago-tap&show_icons=true&theme=codeSTACKr&locale=pt-BR&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Thiago"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-tap&locale=pt-BR&layout=compact&langs_count=7&theme=codeSTACKr" alt="Top Linguagens"/>
   </a>
 </div>
 
