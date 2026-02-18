@@ -1,32 +1,36 @@
 <h1 align="center">Olá! Eu sou o Thiago Albuquerque 👋</h1>
 
 <p align="center">
-  <strong>Full Stack Developer na Indra/Minsait | Focado em Desenvolvimento Web, APIs e Automação</strong><br>
-  Sou um desenvolvedor apaixonado por criar soluções eficientes e escaláveis. Com forte base em programação web, hoje meu foco se expande para o desenvolvimento de APIs robustas (incluindo arquiteturas para a área da saúde), orquestração de servidores e automação de fluxos complexos.
+  <strong>Desenvolvedor Full Stack na Indra/Minsait | Web, APIs & Automação</strong>
+</p>
+
+<p align="center">
+  Sou um desenvolvedor apaixonado por arquitetura de software e por transformar regras de negócio complexas em soluções eficientes. Minha jornada transita desde a criação de interfaces até a orquestração de servidores e automação de processos.
 </p>
 
 ---
 
-### 💻 Tecnologias e Ferramentas
+### 🚀 Sobre mim & Foco Atual
 
-<div align="center">
-  <img align="center" alt="TS" title="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  <img align="center" alt="JS" title="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Angular" title="Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="PHP" title="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="center" alt="Laravel" title="Laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
-  <img align="center" alt="MySQL" title="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PostgreSQL" title="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Docker" title="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-</div>
+* 💼 Atualmente atuo como Desenvolvedor Full Stack na **Indra/Minsait**.
+* 🏥 Focado no desenvolvimento de **APIs robustas e escaláveis** (especialmente para o setor de saúde) utilizando PHP e Laravel.
+* ⚙️ Forte vivência em **Infraestrutura e DevOps**, gerenciando ambientes com Docker, Docker Swarm, Traefik e bancos de dados relacionais (PostgreSQL/MySQL).
+* 🤖 Entusiasta de produtividade: crio e gerencio fluxos complexos de automação e integração de sistemas utilizando o **n8n**.
+* 🌱 Sempre buscando aprimorar a qualidade do código, arquitetura de software e segurança.
 
 <br>
 
-### 📊 Estatísticas do GitHub
+### 💻 Stack Tecnológica
 
 <div align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=thiago-tap&theme=codeSTACKr&locale=pt_BR" alt="Estatísticas de Contribuição"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-tap&layout=compact&langs_count=7&theme=codeSTACKr" alt="Top Linguagens"/>
+  <img align="center" alt="PHP" title="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img align="center" alt="Laravel" title="Laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
+  <img align="center" alt="TypeScript" title="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img align="center" alt="JavaScript" title="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Angular" title="Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="PostgreSQL" title="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MySQL" title="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Docker" title="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
 </div>
 
 <br>
